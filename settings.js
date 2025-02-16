@@ -92,7 +92,4 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
 // make it true for auto recoding 
 
-AUTO_LIKE_EMOJI: process.env.AUTO_LIKE_EMOJI || "🫶", 
-//Input Yours custom...
-
 };
